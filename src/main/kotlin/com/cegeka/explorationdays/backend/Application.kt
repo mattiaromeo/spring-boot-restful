@@ -1,4 +1,4 @@
-package org.jetbrains.kotlin.demo
+package com.cegeka.explorationdays.backend
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
